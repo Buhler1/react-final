@@ -1,0 +1,22 @@
+.header {
+    background-color:bisque;
+    height: 5vh;
+    font-size: 20px;
+}
+.home {
+    float: left;
+    padding-top: 1vh;
+    padding-left: 5vh;
+    text-decoration: none;
+    color: #000;
+}
+.cart {
+    float: right;
+    padding-top: 1vh;
+    padding-right: 5vh;
+    text-decoration: none;
+    color: #000;
+}
+.storeName {
+    text-align: center;
+}
