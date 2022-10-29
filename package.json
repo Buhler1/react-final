@@ -2,7 +2,7 @@
   "name": "react-final",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://buhler1.github.io",
+  "homepage": "https://buhler1.github.io/my-app",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
@@ -16,7 +16,7 @@
   },
   "scripts": {
     "predeploy": "npm run build",
-    "deploy": "gh-pages -b master -d build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
